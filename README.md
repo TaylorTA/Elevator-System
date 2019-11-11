@@ -19,3 +19,5 @@ the elevator is going up, only people who are going up get on and people waiting
 get on the elevator at that time
 
 Standard input in input.txt and input2.txt
+
+Elevator implemented with Stack (array), waiting line implement with Queue (circular linked list).
